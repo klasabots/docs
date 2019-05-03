@@ -22,7 +22,7 @@ script:
 jobs: 
   include:
     - stage: Deploy
-      node_js: "10"
+      node_js: "8"
       install:
         - yarn install
         - yarn run build
