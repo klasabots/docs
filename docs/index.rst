@@ -1,1 +1,3 @@
-# Yuigahama Docs
+Yuigahama Docs
+==============
+
