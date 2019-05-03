@@ -1,0 +1,15 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/project-yuigahama/docs.git",
+  "author": "InkoHX <inkohx@gmail.com>",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
