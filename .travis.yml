@@ -19,15 +19,24 @@ install:
 script:
   - echo "Skipping tests"
 
-deploy:
-  provider: pages
-  skip-cleanup: true
-  committer-from-gh: true
-  github-token: $GITHUB_ACCESS_TOKEN
-  target-branch: gh-pages
-  local-dir: docs/.vuepress/dist
-  on:
-    branch: master
+jobs: 
+  include:
+    - stage: Deploy
+      node_js: "10"
+      install:
+        - yarn install
+        - yarn run build
+      script:
+        - echo "Skipping tests"
+      deploy:
+        provider: pages
+        keep-history: true
+        skip-cleanup: true
+        github-token: $GITHUB_ACCESS_TOKEN
+        target-branch: gh-pages
+        local-dir: docs/.vuepress/dist
+        on:
+          branch: master
 
 notifications:
   email: false
