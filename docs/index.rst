@@ -1,3 +1,0 @@
-Yuigahama Docs
-==============
-
