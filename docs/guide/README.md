@@ -8,3 +8,6 @@
 - [donate](commands/donate.html)
 - [botinfo](commands/botinfo.html)
 - [info](commands/info.html)
+- [stats](commands/stats.html)
+- [ping](commands/ping.html)
+- [invite](commands/invite.html)

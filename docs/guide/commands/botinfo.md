@@ -7,4 +7,4 @@
 
 ## 使用法
 
-`yui!botinfo` と送信する。
+`yui!botinfo`
