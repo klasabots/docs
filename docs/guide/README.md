@@ -2,7 +2,7 @@
 
 ## Commands
 
-### Chat Bot Info
+### General - Chat Bot Info
 
 - [help](commands/help.html)
 - [donate](commands/donate.html)
@@ -11,3 +11,7 @@
 - [stats](commands/stats.html)
 - [ping](commands/ping.html)
 - [invite](commands/invite.html)
+
+### General - User Settings
+
+- [userconf](commands/userconf.html)
