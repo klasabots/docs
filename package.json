@@ -6,10 +6,12 @@
   "author": "InkoHX <inkohx@gmail.com>",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "test": "markdownlint docs"
   },
   "license": "MIT",
   "dependencies": {
+    "markdownlint-cli": "^0.15.0",
     "vuepress": "^0.14.11"
   }
 }
