@@ -34,26 +34,21 @@ module.exports = {
     repo: 'project-yuigahama/docs',
     docsDir: 'docs',
     editLinks: true,
+    sidebar: 'auto',
     locales: {
       '/': {
         label: '日本語',
         selectText: '言語',
         editLinkText: 'GitHubでこのページを編集する。',
         lastUpdated: '最終更新日',
-        nav: require('./lang/ja-JP').getNavbar(),
-        sidebar: {
-          
-        }
+        nav: require('./lang/ja-JP').getNavbar()
       },
       '/en-US/': {
         label: 'English',
         selectText: 'Languages',
         editLinkText: 'Edit this page on GitHub',
         lastUpdated: 'Last Updated',
-        nav: require('./lang/en-US').getNavbar(),
-        sidebar: {
-          
-        }
+        nav: require('./lang/en-US').getNavbar()
       }
     }
   }
