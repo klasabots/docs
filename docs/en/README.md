@@ -7,6 +7,6 @@ features:
 - title: Many functions
   details: There are many functions and commands. Boost your guild with this bot!
 actionText: See how to use →
-actionLink: /guide/
+actionLink: /en/guide/
 footer: MIT Licensed | Copyright © 2019 ProjectYuigahama
 ---
