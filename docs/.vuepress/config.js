@@ -43,7 +43,7 @@ module.exports = {
         lastUpdated: '最終更新日',
         nav: require('./lang/ja-JP').getNavbar()
       },
-      '/en-US/': {
+      '/en/': {
         label: 'English',
         selectText: 'Languages',
         editLinkText: 'Edit this page on GitHub',
