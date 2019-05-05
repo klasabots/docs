@@ -11,7 +11,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "markdownlint-cli": "^0.15.0",
     "vuepress": "^0.14.11"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.15.0"
   }
 }
