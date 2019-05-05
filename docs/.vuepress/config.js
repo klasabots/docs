@@ -24,7 +24,7 @@ module.exports = {
       title: 'Yuigahama',
       description: 'Discordbot 「Yuigahama」 のドキュメントです。'
     },
-    '/en-US/': {
+    '/en/': {
       lang: 'en-US',
       title: 'Yuigahama',
       description: 'Discordbot "Yuigahama" document.'
