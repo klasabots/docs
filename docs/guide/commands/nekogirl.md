@@ -9,13 +9,13 @@
 `yui!nekogirl`, `yui!nekogirl --gif`  
 `--gif` を付けることでGIF画像を送信してくれます。
 
-## yui!nekogirl
+## サンプル1
 
 `yui!nekogirl` を実行した時に送信される画像のサンプル (他にもいろんな画像を送信してくれます。)
 
 ![Imgur](https://i.imgur.com/mvAklDP.png)
 
-## yui!nekogirl --gif
+## サンプル2
 
 `yui!nekogirl --gif` を実行した時に送信される画像のサンプル (他にもいろんな画像を送信してくれます。)
 
