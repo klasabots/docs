@@ -15,3 +15,10 @@
 ### General - User Settings
 
 - [userconf](commands/userconf.html)
+
+### Picture - SFW
+
+- [nekogirl](commands/nekogirl.html)
+- [foxgirl](commands/foxgirl.html)
+- [cat](commands/cat.html)
+- [dog](commands/dog.html)
