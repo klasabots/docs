@@ -15,6 +15,10 @@ module.exports.getNavbar = function() {
     {
       text: 'DBL',
       link: 'https://discordbots.org/bot/531097309748920371'
+    },
+    {
+      text: 'Contact',
+      link: '/guide/contact.html'
     }
   ]
 }
