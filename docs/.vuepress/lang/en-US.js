@@ -18,7 +18,7 @@ module.exports.getNavbar = function() {
     },
     {
       text: 'Contact',
-      link: '/guide/contact.html'
+      link: '/en/guide/contact.html'
     }
   ]
 }
