@@ -32,7 +32,6 @@ module.exports = {
   },
   themeConfig: {
     repo: 'project-yuigahama/docs',
-    docsDir: 'docs',
     editLinks: true,
     sidebar: 'auto',
     locales: {
