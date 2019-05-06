@@ -10,5 +10,5 @@ Mail: `inkohx@gmail.com`
 
 ### Other contacts
 
-[Twitter](https://twitter.com/InkoHX)
+[Twitter](https://twitter.com/InkoHX)  
 [GitHub](https://github.com/InkoHX)
