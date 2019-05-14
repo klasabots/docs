@@ -2,6 +2,10 @@
 
 ## Commands
 
+### Admin - General
+
+- [conf](/commands/conf.html)
+
 ### General - Chat Bot Info
 
 - [help](commands/help.html)
