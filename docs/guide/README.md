@@ -4,7 +4,7 @@
 
 ### Admin - General
 
-- [conf](/commands/conf.html)
+- [conf](commands/conf.html)
 
 ### General - Chat Bot Info
 
