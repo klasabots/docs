@@ -2,7 +2,7 @@ module.exports.getNavbar = function() {
   return [
     {
       text: 'Guide',
-      link: '/guide/'
+      link: '/en/guide/'
     },
     {
       text: 'Discord',
