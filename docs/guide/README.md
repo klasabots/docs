@@ -26,6 +26,7 @@
 - [foxgirl](commands/foxgirl.html)
 - [cat](commands/cat.html)
 - [dog](commands/dog.html)
+- [yuigahama](commands/yuigahama.html)
 
 ### Game - Fortnite
 
