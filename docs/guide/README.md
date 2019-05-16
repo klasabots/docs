@@ -57,7 +57,7 @@
 - memberinfo
 - roleinfo
 
-### Guild
+### Guild - Manager
 
 - ban
 - kick
