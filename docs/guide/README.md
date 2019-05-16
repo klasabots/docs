@@ -36,6 +36,28 @@
 
 - [fortnite](commands/fortnite.html)
 
+### Game - Minecraft
+
+- minecraft-namehistory
+- minecraft-uuid
+
 ### DevTools - JavaScript
 
 - [discordjs](commands/discordjs.html)
+
+### DevTools - PocketMine-MP
+
+- pocketmine
+- poggit
+
+### Guild - Information
+
+- channelinfo
+- guildinfo
+- memberinfo
+- roleinfo
+
+### Guild
+
+- ban
+- kick
