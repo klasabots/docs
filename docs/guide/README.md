@@ -35,3 +35,7 @@
 ### Game - Fortnite
 
 - [fortnite](commands/fortnite.html)
+
+### DevTools - JavaScript
+
+- [discordjs](commands/discordjs.html)
