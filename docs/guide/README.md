@@ -28,6 +28,10 @@
 - [dog](commands/dog.html)
 - [yuigahama](commands/yuigahama.html)
 
+### Picture - Fun
+
+- [hug](commands/hug.html)
+
 ### Game - Fortnite
 
 - [fortnite](commands/fortnite.html)
