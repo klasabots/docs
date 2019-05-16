@@ -9,6 +9,7 @@ Fortniteに関する情報を表示します。
 :::
 
 ## 使用法
+
 `yui!fortnite <news|challenges>`
 
 ## news
