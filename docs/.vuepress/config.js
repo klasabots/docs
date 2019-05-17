@@ -3,18 +3,18 @@ module.exports = {
   head: [
     ['meta', { charset: 'utf-8' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-    ['meta', { name: 'keywords', content: 'Yuigahama,Discordbot,Discord,klasa,minecraft' }],
-    ['meta', { name: 'author', content: 'ProjectYuigahama' }],
+    ['meta', { name: 'keywords', content: 'Yuigahama,Discordbot,Discord,klasa,minecraft,bot' }],
+    ['meta', { name: 'author', content: 'Project Yuigahama' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:url', content: 'https://project-yuigahama.github.io/docs' }],
-    ['meta', { name: 'twitter:image', content: './wallpaper.jpg' }],
+    ['meta', { name: 'twitter:url', content: 'https://yuigahama.js.org' }],
+    ['meta', { name: 'twitter:image', content: 'https://yuigahama.js.org/wallpaper.jpg' }],
     ['meta', { name: 'twitter:creator', content: '@InkoHX' }],
     ['meta', { name: 'msapplication-TileColor', content: '#db7475' }],
     ['meta', { name: 'theme-color', content: '#db7475' }],
-    ['meta', { property: 'og:title', content: 'ProjectYuigahama - Document' }],
-    ['meta', { property: 'og:site_name', content: 'ProjectYuigahama - Document' }],
-    ['meta', { property: 'og:url', content: 'https://project-yuigahama.github.io/docs' }],
-    ['meta', { property: 'og:image', content: './wallpaper.jpg' }],
+    ['meta', { property: 'og:title', content: 'Yuigahama - Powerful multifunction discord bot' }],
+    ['meta', { property: 'og:site_name', content: 'Yuigahama - Powerful multifunction discord bot' }],
+    ['meta', { property: 'og:url', content: 'https://yuigahama.js.org' }],
+    ['meta', { property: 'og:image', content: 'https://yuigahama.js.org/wallpaper.jpg' }],
     ['meta', { property: 'og:type', content: 'site' }],
     ['meta', { name: 'google-site-verification', content: '9j8P_Q3g9aUPR4nG8As-Qd-9bnqeHfc3IZwSpG5UcdE' }],
     ['link', { rel: 'icon', href: './icon.jpg' }]
@@ -22,12 +22,12 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP',
-      title: 'Yuigahama',
+      title: 'Yuigahama - 強力な多機能DiscordBot',
       description: 'Discordbot 「Yuigahama」 のドキュメントです。'
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Yuigahama',
+      title: 'Yuigahama - Powerful multifunction Discord bot.',
       description: 'Discordbot "Yuigahama" document.'
     }
   },
