@@ -22,12 +22,12 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP',
-      title: 'Yuigahama - 強力な多機能DiscordBot',
+      title: 'Yuigahama - Discord bot',
       description: 'Discordbot 「Yuigahama」 のドキュメントです。'
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Yuigahama - Powerful multifunction Discord bot.',
+      title: 'Yuigahama - Discord bot.',
       description: 'Discordbot "Yuigahama" document.'
     }
   },
