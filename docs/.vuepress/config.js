@@ -17,7 +17,7 @@ module.exports = {
     ['meta', { property: 'og:image', content: './wallpaper.jpg' }],
     ['meta', { property: 'og:type', content: 'site' }],
     ['meta', { name: 'google-site-verification', content: '9j8P_Q3g9aUPR4nG8As-Qd-9bnqeHfc3IZwSpG5UcdE' }],
-    ['meta', { name: 'msvalidate.01', content: 'B7D3C0F6E144FB21513C66ED65F21215' }]
+    ['meta', { name: 'msvalidate.01', content: 'B7D3C0F6E144FB21513C66ED65F21215' }],
     ['link', { rel: 'icon', href: './icon.jpg' }]
   ],
   locales: {
