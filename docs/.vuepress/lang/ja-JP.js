@@ -5,6 +5,10 @@ module.exports.getNavbar = function() {
       link: '/guide/'
     },
     {
+      text: '困った時',
+      link: '/guide/contact.html'
+    },
+    {
       text: 'Discord',
       link: 'https://discord.gg/JJhtTvG'
     },
@@ -15,10 +19,6 @@ module.exports.getNavbar = function() {
     {
       text: 'DBL',
       link: 'https://discordbots.org/bot/531097309748920371'
-    },
-    {
-      text: 'Contact',
-      link: '/guide/contact.html'
     }
   ]
 }
