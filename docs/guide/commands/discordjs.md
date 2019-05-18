@@ -26,18 +26,18 @@ Discord.jsのドキュメント検索ができます。
 
 ## 使用法 - "RPC" ドキュメントの検索
 
-`yui!discordjs rpc <検索内容> [ブランチ]`  
+`yui!discordjs rpc <検索内容>`  
 で検索する事ができます。
 
-:::tip
-`branch`は何も指定していないと`master`になっています。
+:::warning
+`branch`は指定できません。
 :::
 
 ## 使用法 - "Commando" ドキュメントの検索
 
-`yui!discordjs commando <検索内容> [ブランチ]`  
+`yui!discordjs commando <検索内容>`  
 で検索する事ができます。
 
-:::tip
-`branch`は何も指定していないと`master`になっています。
+:::warning
+`branch`は指定できません。
 :::
