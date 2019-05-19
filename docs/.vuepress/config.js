@@ -51,5 +51,10 @@ module.exports = {
         nav: require('./lang/en-US').getNavbar()
       }
     }
+  },
+  plugins: {
+    'sitemap': {
+      hostname: 'https://yuigahama.js.org'
+    },
   }
 }
