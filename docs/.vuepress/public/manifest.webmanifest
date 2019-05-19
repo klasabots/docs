@@ -1,7 +1,7 @@
 {
   "name": "Yuigahama",
   "short_name": "Yuigahama",
-  "start_url": "https://yuigahama.js.org",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#db7475",
   "description": "Powerful multifunction Discord bot \"Yuigahama\" document.",
