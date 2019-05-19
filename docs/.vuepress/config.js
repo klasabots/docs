@@ -17,7 +17,8 @@ module.exports = {
     ['meta', { property: 'og:image', content: 'https://yuigahama.js.org/wallpaper.jpg' }],
     ['meta', { property: 'og:type', content: 'site' }],
     ['meta', { name: 'google-site-verification', content: '9j8P_Q3g9aUPR4nG8As-Qd-9bnqeHfc3IZwSpG5UcdE' }],
-    ['link', { rel: 'icon', href: './icon.jpg' }]
+    ['link', { rel: 'icon', href: './icon.jpg' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],
   locales: {
     '/': {

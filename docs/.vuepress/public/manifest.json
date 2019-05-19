@@ -1,7 +1,7 @@
 {
   "name": "Yuigahama",
   "short_name": "Yuigahama",
-  "start_url": "/index.html",
+  "start_url": "/?pwa=true",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#db7475",
