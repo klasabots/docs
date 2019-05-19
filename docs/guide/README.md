@@ -54,7 +54,7 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 
 ### Guild - Information
 
-- channelinfo
+- [channelinfo](commands/channelinfo.html)
 - guildinfo
 - memberinfo
 - roleinfo
