@@ -50,7 +50,7 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 ### DevTools - PocketMine-MP
 
 - pocketmine
-- poggit
+- [poggit](commands/poggit.html)
 
 ### Guild - Information
 
