@@ -52,11 +52,11 @@ module.exports = {
       }
     }
   },
-  plugins: {
-    'sitemap': {
+  plugins: [
+    ['sitemap', {
       hostname: 'https://yuigahama.js.org'
-    },
-    '@vuepress/pwa': {
+    }],
+    ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: {
         '/': {
@@ -68,6 +68,8 @@ module.exports = {
           buttonText: 'Refresh'
         }
       }
-    }
-  }
+    }],
+    ['@vuepress/back-to-top', true],
+    ['@vuepress/medium-zoom', true]
+  ]
 }
