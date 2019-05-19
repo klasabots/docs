@@ -56,5 +56,18 @@ module.exports = {
     'sitemap': {
       hostname: 'https://yuigahama.js.org'
     },
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: {
+        '/': {
+          message: '新しいコンテンツがあります。',
+          buttonText: '更新する'
+        },
+        '/en': {
+          message: 'New content is available.',
+          buttonText: 'Refresh'
+        }
+      }
+    }
   }
 }
