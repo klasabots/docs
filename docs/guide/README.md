@@ -2,6 +2,8 @@
 
 ## Commands
 
+Yuigahamaのコマンド一覧です。クリックすると詳しい説明が確認できます。
+
 ### Admin - General
 
 - [conf](commands/conf.html)

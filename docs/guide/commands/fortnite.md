@@ -18,4 +18,4 @@ Fortniteに関する情報を表示します。
 
 ## challenges
 
-`yui!challenges` を実行すると今日のミッションが表示されます。
+`yui!challenges` を実行すると今日のミッションが表示されます。（英語）
