@@ -6,7 +6,7 @@
   "author": "InkoHX <inkohx@gmail.com>",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "build": "NODE_ENV=production vuepress build docs",
     "test": "markdownlint docs"
   },
   "license": "MIT",
