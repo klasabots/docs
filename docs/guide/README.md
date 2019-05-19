@@ -56,7 +56,7 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 
 - [channelinfo](commands/channelinfo.html)
 - [guildinfo](commands/guildinfo.html)
-- memberinfo
+- [memberinfo](commands/memberinfo.html)
 - roleinfo
 
 ### Guild - Manager
