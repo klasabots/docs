@@ -24,12 +24,12 @@ module.exports = {
     '/': {
       lang: 'ja-JP',
       title: 'Yuigahama',
-      description: '強力な多機能Discord bot 「Yuigahama」 のドキュメントです。'
+      description: '強力な多機能Discord bot 「Yuigahama」 のドキュメントサイトです。'
     },
     '/en/': {
       lang: 'en-US',
       title: 'Yuigahama',
-      description: 'Powerful multifunction Discord bot "Yuigahama" document.'
+      description: 'Powerful multifunction Discord bot "Yuigahama" document site.'
     }
   },
   themeConfig: {

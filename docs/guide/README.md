@@ -61,5 +61,5 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 
 ### Guild - Manager
 
-- ban
-- kick
+- [ban](commands/ban.html)
+- [kick](commands/kick.html)
