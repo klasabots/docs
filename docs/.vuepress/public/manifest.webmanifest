@@ -3,7 +3,8 @@
   "short_name": "Yuigahama",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#db7475",
+  "background_color": "#fff",
+  "theme_color": "#db7475",
   "description": "Powerful multifunction Discord bot \"Yuigahama\" document.",
   "icons": [
     {
