@@ -17,7 +17,7 @@ Nothing may be displayed in the search results, or an error may occur.
 
 ## Usage-Search for "main" documents
 
-`yui!discordjs <query> <branch>` , `yui!discordjs main <query> [branch]` 
+`yui!discordjs <query> <branch>` , `yui!discordjs main <query> [branch]`
 
 :::tip
 The `branch` is `stable` if nothing is specified. If you `yui!discordjs <query> master` to search the document of `master` branch, you can search by executing `yui!discordjs <query> master`.
