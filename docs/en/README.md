@@ -2,7 +2,7 @@
 heroImage: "/wallpaper.jpg"
 home: 'true'
 actionText: See how to use →
-actionLink: "/guide/"
+actionLink: "/en/guide/"
 features:
 - title: Japanese is supported.
   details: Currently supports Japanese and English. It is to have it be introduced
