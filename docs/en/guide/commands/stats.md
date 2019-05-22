@@ -10,15 +10,15 @@ Display bot details and statistics.
  When you send it, a message like the one below will be returned.
 
 ```asciidoc
-= 統計情報 =
+= STATISTICS =
 
-• 使用メモリ    :: 83.61 MB
-• 起動時間      :: 2 days
-• ユーザー数    :: 50,607
-• サーバー数    :: 25
-• チャンネル数  :: 786
-• Klasa        :: v0.5.0-dev
-• Discord.js   :: v12.0.0-dev
-• Node.js      :: v10.15.3
-• Shard        :: 1 / 1
+• Mem Usage  :: 85.13 MB
+• Uptime     :: a day
+• Users      :: 33,134
+• Guilds     :: 45
+• Channels   :: 1,219
+• Klasa      :: v0.5.0-dev
+• Discord.js :: v12.0.0-dev
+• Node.js    :: v10.15.3
+• Shard      :: 1 / 1
 ```
