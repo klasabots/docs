@@ -9,7 +9,7 @@ Send the girl image of the moth ear.
 `yui!foxgirl`
 
 :::tip
-このコマンドにGIFオプションはありません。
+There is no GIF option for this command.
 :::
 
 ## sample
