@@ -5,9 +5,7 @@
 Send a bot invitation link.
 
 :::tip
-招待する時に必要としている権限のチェックボックスを外さないでください。
-
-すべてのコマンドが使えなくなったり正常な動作をしなくなる可能性があります。
+Please do not uncheck the required privileges when inviting.  It is possible that all commands can not be used or function properly. 
 :::
 
 ## how to use
