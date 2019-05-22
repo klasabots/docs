@@ -4,10 +4,11 @@
 
 You can search for documents in Discord.js. It is a feature for developers.
 
-:::warning
-`branch(ブランチ)`が何か分からない場合は何も指定しないでください。
+If you do not know what the
 
-検索結果に何も表示されなかったり、エラーが起きるかもしれません。
+:::warning
+`branch` is, do not specify anything.  
+Nothing may be displayed in the search results, or an error may occur.
 :::
 
 ## how to use
@@ -28,7 +29,7 @@ The ::: tip `branch` is `stable` if nothing is specified.
  You can search on
 
 :::warning
-`branch`は指定できません。
+You can not specify a `branch`.
 :::
 
 ## Usage-Search for "Commando" documents
@@ -37,5 +38,5 @@ The ::: tip `branch` is `stable` if nothing is specified.
  You can search on
 
 :::warning
-`branch`は指定できません。
+You can not specify a `branch`.
 :::
