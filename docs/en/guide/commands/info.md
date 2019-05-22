@@ -9,21 +9,21 @@ We introduce the framework "Klasa" used to create this bot.
 `yui!info` send `yui!info` , `yui!details` , `yui!what` , the following message will be returned.
 
 ```text
-KlasaはDiscord.jsライブラリ上に構築された「プラグ・アンド・プレイ」フレームワークです。
-ほとんどのコードはモジュール化されており、開発者はKlasaをニーズに合わせて編集できます。
+Klasa is a 'plug-and-play' framework built on top of the Discord.js library.
+Most of the code is modularized, which allows developers to edit Klasa to suit their needs.
 
-Klasa に組み込まれているいくつかの機能です
-• ES2017の対応による高速な読み込み（async/await）
-• 自分のフィールドで拡張できるクライアント/サーバー/ユーザ設定
-• 自動化されたパラメータ解決機能とオンザフライでコマンドをロード/リロードする機能を備えたカスタマイズ可能なコマンドシステム
-• "Monitors" でメッセージと編集を見ることができます（検閲、スパム保護など）
-• "Inhibitors" で適用したい条件に基づいてコマンドが実行されないようにすることができます（権限、ブラックリストなど）
-• "Providers" であなたの選択したデータベースの使用を簡素化します
-• "Finalizers" でコマンドの成功後に実行されます（ログ、統計の収集、応答のクリーンアップなど）
-• "Extendables" で既存のDiscord.jsクラスまたはKlasaクラスにメソッド、ゲッター/セッター、または静的プロパティを受動的に追加します
-• "Languages" でボットの応答をローカライズすることが可能です
-• "Tasks" で将来実行されるようにスケジュールしたり、必要に応じて繰り返し実行できます
+Some features of Klasa include:
+• Fast loading times with ES2017 support (async/await)
+• Per-client/guild/user settings that can be extended with your own fields
+• Customizable command system with automated parameter resolving and the ability to load/reload commands on-the-fly
+• "Monitors", which can watch messages and edits (for swear filters, spam protection, etc.)
+• "Inhibitors", which can prevent commands from running based on any condition you wish to apply (for permissions, blacklists, etc.)
+• "Providers", which simplify usage of any database of your choosing
+• "Finalizers", which run after successful commands (for logging, collecting stats, cleaning up responses, etc.)
+• "Extendables", which passively add methods, getters/setters, or static properties to existing Discord.js or Klasa classes
+• "Languages", which allow you to localize your bot's responses
+• "Tasks", which can be scheduled to run in the future, optionally repeating
 
-すべてのユーザーに対応できる100％カスタマイズ可能なフレームワークになることを願っています。利用可能な場合は、頻繁な更新とバグ修正を行います。
-もし興味がある場合は、https://klasa.js.org/ をご覧ください。
+We hope to be a 100% customizable framework that can cater to all audiences. We do frequent updates and bugfixes when available.
+If you're interested in us, check us out at https://klasa.js.org
 ```
