@@ -1,9 +1,9 @@
 # Ping
 
-## 説明
+## Description
 
-Discordへの応答速度を計測します。
+Measure the response speed to Discord.
 
-## 使用法
+## how to use
 
 `yui!ping`
