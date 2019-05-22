@@ -26,8 +26,8 @@ The tag and name of the server owner are displayed.
 
 ### Members
 
-Displays the number of members in the server. 
- You can also check the number of bots and the number of offline.
+Displays the number of members in the server.  
+You can also check the number of bots and the number of offline.
 
 ### Channels
 
