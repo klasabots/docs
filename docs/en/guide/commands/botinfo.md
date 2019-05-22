@@ -2,8 +2,7 @@
 
 ## Description
 
-ボットが稼働している環境を表示します。
-プラットフォーム、合計メモリ、CPUの名前が送信されます。
+Shows the environment in which the bot is running. The platform, total memory, and CPU name are sent.
 
 ## Usage
 
