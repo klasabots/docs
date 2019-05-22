@@ -6,8 +6,8 @@ Display bot details and statistics.
 
 ## how to use
 
-`yui!stats` 
- When you send it, a message like the one below will be returned.
+`yui!stats`  
+When you send it, a message like the one below will be returned.
 
 ```asciidoc
 = STATISTICS =
