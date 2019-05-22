@@ -12,6 +12,6 @@ Send dog images.
 
 ## sample
 
-`yui!dog` を実行した時に送信される画像のサンプル (他にもいろんな画像を送信してくれます。)
+A sample of the image sent when you run `yui!dog`
 
 ![Imgur](https://i.imgur.com/9gVn5XJ.png)
