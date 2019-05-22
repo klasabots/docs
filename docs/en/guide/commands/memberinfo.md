@@ -16,8 +16,8 @@ Displays the member's name.
 
 ### Nickname
 
-Shows the configured nickname. 
- If not set, it is `None` .
+Shows the configured nickname.  
+If not set, it is `None` .
 
 ### Bannable
 
