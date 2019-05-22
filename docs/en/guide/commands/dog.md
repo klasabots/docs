@@ -14,6 +14,6 @@ This command does not have a GIF image option, but a GIF image is sent occasiona
 
 ## sample
 
-Sample of the image sent when you run `yui!dog` (We will send other images as well.)
+A sample of the image sent when you run `yui!dog`
 
 ![Imgur](https://i.imgur.com/9gVn5XJ.png)
