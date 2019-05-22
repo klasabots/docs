@@ -2,7 +2,7 @@
 
 ## Commands
 
-Sorry, Translation is not complete.
+Yuigahama's command list. Click to see a detailed description.
 
 ### Admin - General
 
@@ -18,11 +18,11 @@ Sorry, Translation is not complete.
 - [ping](commands/ping.html)
 - [invite](commands/invite.html)
 
-### General - User Settings
+### General-User Settings
 
 - [userconf](commands/userconf.html)
 
-### Picture - SFW
+### Picture-SFW
 
 - [nekogirl](commands/nekogirl.html)
 - [foxgirl](commands/foxgirl.html)
@@ -30,36 +30,36 @@ Sorry, Translation is not complete.
 - [dog](commands/dog.html)
 - [yuigahama](commands/yuigahama.html)
 
-### Picture - Fun
+### Picture-Fun
 
 - [hug](commands/hug.html)
 
-### Game - Fortnite
+### Game-Fortnite
 
 - [fortnite](commands/fortnite.html)
 
-### Game - Minecraft
+### Game-Minecraft
 
 - [minecraft-namehistory](commands/minecraft-namehistory.md)
 - [minecraft-uuid](commands/minecraft-uuid.md)
 
-### DevTools - JavaScript
+### DevTools-JavaScript
 
 - [discordjs](commands/discordjs.html)
 
-### DevTools - PocketMine-MP
+### DevTools-PocketMine-MP
 
 - [pocketmine](commands/pocketmine.html)
 - [poggit](commands/poggit.html)
 
-### Guild - Information
+### Guild-Information
 
 - [channelinfo](commands/channelinfo.html)
 - [guildinfo](commands/guildinfo.html)
 - [memberinfo](commands/memberinfo.html)
 - [roleinfo](commands/roleinfo.md)
 
-### Guild - Manager
+### Guild-Manager
 
 - [ban](commands/ban.html)
 - [kick](commands/kick.html)
