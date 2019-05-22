@@ -21,11 +21,11 @@ Sent message: `yui!help nekogirl`
 Returned message
 
 ```asciidoc
-= nekogirl =
-猫耳の女の子画像を送信します。
-使用法 :: yui! nekogirl
-拡張ヘルプ ::
---gif を付けるとGIF画像が送信されます。
+= nekogirl = 
+Send neko girl images.
+Usage :: yui! nekogirl
+Extended Help ::
+If you add --gif, a GIF image will be sent.
 ```
 
 This will return a detailed description of the command.
