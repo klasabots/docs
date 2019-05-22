@@ -4,6 +4,10 @@
 
 Yuigahama's command list. Click to see a detailed description.
 
+::: danger WARNING
+Use machine translation.
+:::
+
 ### Admin - General
 
 - [conf](commands/conf.html)
