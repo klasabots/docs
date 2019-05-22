@@ -28,8 +28,10 @@ Shows whether development mode is enabled.
 
 It shows the supported Minecraft version.
 
-::: warning `Minecraft Bedrock Edition` version is returned. 
- It is not a `Java Edition` . :::
+:::warning
+`Minecraft Bedrock Edition` version is returned.  
+It is not a `Java Edition`.
+:::
 
 ### Commit Hash
 
