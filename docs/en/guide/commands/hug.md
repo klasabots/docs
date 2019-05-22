@@ -2,7 +2,7 @@
 
 ## Description
 
-指定したユーザーにあなたからハグを送ります。（完全チャット盛り上げ用です。）
+I will send you a hug to the specified user.
 
 ## how to use
 
