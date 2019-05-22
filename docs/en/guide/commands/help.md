@@ -2,8 +2,8 @@
 
 ## Description
 
-Display command list and description. 
- Please use it when you forgot the command.
+Display command list and description.  
+Please use it when you forgot the command.
 
 ## Usage 1
 
@@ -21,7 +21,7 @@ Sent message: `yui!help nekogirl`
 Returned message
 
 ```asciidoc
-= nekogirl = 
+= nekogirl =
 Send neko girl images.
 Usage :: yui! nekogirl
 Extended Help ::
