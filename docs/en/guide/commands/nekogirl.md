@@ -7,7 +7,7 @@ Returns a 2D image of a cat ear girl.
 ## how to use
 
 `yui!nekogirl` , `yui!nekogirl --gif` 
- `--gif` can send GIF images by `--gif` .
+`--gif` can send GIF images by `--gif`.
 
 ## Sample 1
 
