@@ -4,10 +4,9 @@
 
 Search for plugins from [Poggit](https://poggit.pmmp.io) .
 
-:::warning
-最新のバージョンではない結果が返されるかもしれません。
-
-使用する際はプラグインのバージョンをよく確認してください。
+::: warning
+You may get results that are not the latest version.  
+Please carefully check the plug-in version before using it.
 :::
 
 ## how to use
