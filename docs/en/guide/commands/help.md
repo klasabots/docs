@@ -11,8 +11,8 @@ Display command list and description.
 
 ## Usage 2
 
-If you want to see a detailed explanation of the command, please enter like this. 
- `yui!help <コマンドの名前>`
+If you want to see a detailed explanation of the command, please enter like this.  
+`yui!help <コマンドの名前>`
 
 ### Usage example of usage 2
 
