@@ -41,7 +41,7 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 ### Game - Minecraft
 
 - minecraft-namehistory
-- minecraft-uuid
+- [minecraft-uuid](commands/minecraft-uuid.md)
 
 ### DevTools - JavaScript
 
