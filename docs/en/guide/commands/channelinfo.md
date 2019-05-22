@@ -62,5 +62,4 @@ Shows the number of people participating in the voice channel.
 
 ### Limit
 
-It shows the number of people. 
- By the way, if there is no limit, it is `Infinity(無限)` .
+It shows the number of people. By the way, if there is no limit, it is `Infinity`.
