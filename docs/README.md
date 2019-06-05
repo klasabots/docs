@@ -1,5 +1,5 @@
 ---
-heroImage: /wallpaper.jpg
+heroImage: /wallpaper.webp
 home: true
 actionText: 使い方を見る →
 actionLink: /guide/

@@ -1,15 +1,13 @@
 ---
-heroImage: "/wallpaper.jpg"
-home: 'true'
+heroImage: /wallpaper.webp
+home: true
 actionText: See how to use →
-actionLink: "/en/guide/"
+actionLink: /en/guide/
 features:
 - title: Japanese is supported.
-  details: Currently supports Japanese and English. It is to have it be introduced
-    to more servers.
+  details: Currently supports Japanese and English. It is to have it be introduced to more servers.
 - title: Many commands and functions
-  details: It is equipped with commands to activate the server and functions required
-    to manage the server.
+  details: It is equipped with commands to activate the server and functions required to manage the server.
 - title: Basic 24-hour hosting
   details: Basic 24 hours hosting. It can be used at any time of day.
 footer: MIT Licensed | Copyright © 2019 ProjectYuigahama
