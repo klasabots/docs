@@ -17,7 +17,7 @@ module.exports = {
     ['meta', { property: 'og:image', content: 'https://yuigahama.js.org/wallpaper.webp' }],
     ['meta', { property: 'og:type', content: 'site' }],
     ['meta', { name: 'google-site-verification', content: '9j8P_Q3g9aUPR4nG8As-Qd-9bnqeHfc3IZwSpG5UcdE' }],
-    ['link', { rel: 'icon', href: './icon.webp' }],
+    ['link', { rel: 'icon', href: './favicon.ico' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],
   locales: {
