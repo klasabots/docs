@@ -4,7 +4,7 @@
 
 - [Yuigahama基本ガイド](getting-started/guide.html)
 
-## Commands
+## コマンド一覧
 
 Yuigahamaのコマンド一覧です。クリックすると詳しい説明が確認できます。
 
