@@ -1,5 +1,8 @@
 # ようこそYuigahamaのガイドへ！
 
+## 基本ガイド
+- [Yuigahama基本ガイド](getting-started/guide.html)
+
 ## Commands
 
 Yuigahamaのコマンド一覧です。クリックすると詳しい説明が確認できます。
