@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yuigahama.js.org/sitemap.xml
