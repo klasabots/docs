@@ -70,6 +70,9 @@ module.exports = {
         }
       }
     }],
+    ['@vuepress/google-analytics', {
+      ga: 'UA-140128665-1'
+    }],
     ['@vuepress/back-to-top', true],
     ['@vuepress/medium-zoom', true]
   ]
