@@ -2,5 +2,6 @@
   "default": true,
   "no-inline-html": false,
   "no-duplicate-heading": false,
-  "line-length": false
+  "line-length": false,
+  "first-line-h1": false
 }

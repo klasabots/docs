@@ -13,7 +13,7 @@ features:
 footer: MIT Licensed | Copyright © 2019 ProjectYuigahama
 ---
 
-# Yuigahamaとは
+### Yuigahamaとは
 
 色々な機能やコマンドを備えた多機能DiscordBotです。
 

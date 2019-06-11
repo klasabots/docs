@@ -3,13 +3,13 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja-JP',
-      title: 'Yuigahama - 強力な多機能Discordボット',
-      description: '強力な多機能Discordボット Yuigahama のドキュメントサイトです。画像フィルター'
+      title: 'Yuigahama',
+      description: '強力な多機能Discordボット'
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Yuigahama - Powerful multifunction discord bot',
-      description: 'Powerful multifunction Discord bot "Yuigahama" document site.'
+      title: 'Yuigahama',
+      description: 'Powerful multifunction Discord bot'
     }
   },
   head: [
