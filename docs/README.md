@@ -1,17 +1,25 @@
 ---
-heroImage: /wallpaper.webp
 home: true
+heroImage: /wallpaper.webp
 actionText: 使い方を見る →
 actionLink: /guide/
-features:
-- title: 日本語をサポートしている。
-  details: 現在日本語と英語に対応しています。より多くのサーバーに導入してもらう為です。
-- title: 沢山のコマンドや機能
-  details: サーバーを盛り上げるコマンドやサーバーを管理する為に必要な機能が備わっています。
-- title: 基本24時間ホスティング
-  details: 基本24時間ホスティングしています。どの時間帯でも利用できます。
 footer: MIT Licensed | Copyright © 2019 ProjectYuigahama
 ---
+
+<div class="features">
+  <div class="feature">
+    <h2>日本語をサポートしている。</h2>
+    <p>現在、日本語と英語に対応しています。より多くのサーバーに導入してもらう為です。</p>
+  </div>
+  <div class="feature">
+    <h2>沢山のコマンドや機能</h2>
+    <p>サーバーを盛り上げるコマンドやサーバーを管理する機能、画像フィルターなど沢山の機能が実装されています。</p>
+  </div>
+  <div class="feature">
+    <h2>24時間ホスティング</h2>
+    <p>基本24時間起動しています。どの時間帯使用可能です。</p>
+  </div>
+</div>
 
 ### Yuigahamaとは
 
