@@ -1,5 +1,17 @@
 module.exports = {
   ga: 'UA-140128665-1',
+  locales: {
+    '/': {
+      lang: 'ja-JP',
+      title: 'Yuigahama - 強力な多機能Discordボット',
+      description: '強力な多機能Discordボット Yuigahama のドキュメントサイトです。画像フィルター'
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'Yuigahama - Powerful multifunction discord bot',
+      description: 'Powerful multifunction Discord bot "Yuigahama" document site.'
+    }
+  },
   head: [
     ['meta', { charset: 'utf-8' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
@@ -9,29 +21,18 @@ module.exports = {
     ['meta', { name: 'twitter:url', content: 'https://yuigahama.js.org' }],
     ['meta', { name: 'twitter:image', content: 'https://yuigahama.js.org/wallpaper.webp' }],
     ['meta', { name: 'twitter:creator', content: '@InkoHX' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#db7475' }],
     ['meta', { name: 'theme-color', content: '#db7475' }],
-    ['meta', { property: 'og:title', content: 'Yuigahama - Powerful multifunction discord bot' }],
-    ['meta', { property: 'og:site_name', content: 'Yuigahama - Powerful multifunction discord bot' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#db7475' }],
+    ['meta', { name: 'msapplication-TileImage', content: 'https://yuigahama.js.org/images/192.png' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { property: 'og:url', content: 'https://yuigahama.js.org' }],
     ['meta', { property: 'og:image', content: 'https://yuigahama.js.org/wallpaper.webp' }],
-    ['meta', { property: 'og:type', content: 'site' }],
     ['meta', { name: 'google-site-verification', content: '9j8P_Q3g9aUPR4nG8As-Qd-9bnqeHfc3IZwSpG5UcdE' }],
-    ['link', { rel: 'icon', href: './favicon.ico' }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }]
+    ['link', { rel: 'apple-touch-icon', href: `https://yuigahama.js.org/icons/192.png` }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['link', { rel: 'icon', href: 'https://yuigahama.js.org/favicon.ico' }]
   ],
-  locales: {
-    '/': {
-      lang: 'ja-JP',
-      title: 'Yuigahama',
-      description: '強力な多機能Discord bot 「Yuigahama」 のドキュメントサイトです。'
-    },
-    '/en/': {
-      lang: 'en-US',
-      title: 'Yuigahama',
-      description: 'Powerful multifunction Discord bot "Yuigahama" document site.'
-    }
-  },
   themeConfig: {
     repo: 'project-yuigahama/docs',
     editLinks: true,
