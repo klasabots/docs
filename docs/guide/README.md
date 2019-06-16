@@ -1,8 +1,8 @@
 # ようこそYuigahamaのガイドへ！
 
-## 基本ガイド
+## ガイド
 
-- [Yuigahama基本ガイド](getting-started/guide.html)
+- [YuigahamaBot基本ガイド](getting-started/guide.html)
 
 ## コマンド一覧
 
