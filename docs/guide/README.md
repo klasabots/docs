@@ -38,23 +38,34 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 
 - [hug](commands/hug.html)
 
+### Game - ETS2
+
+- [truckers-mp](commands/truckers-mp.html)
+
 ### Game - Fortnite
 
 - [fortnite](commands/fortnite.html)
 
 ### Game - Minecraft
 
-- [minecraft-namehistory](commands/minecraft-namehistory.md)
-- [minecraft-uuid](commands/minecraft-uuid.md)
+- [minecraft-namehistory](commands/minecraft-namehistory.html)
+- [minecraft-uuid](commands/minecraft-uuid.html)
+- [mojang-status](commands/mojang-status.html)
 
 ### DevTools - JavaScript
 
 - [discordjs](commands/discordjs.html)
+- [mdn](commands/mdn.html)
+- [npm](commands/npm.html)
 
 ### DevTools - PocketMine-MP
 
 - [pocketmine](commands/pocketmine.html)
 - [poggit](commands/poggit.html)
+
+### Guild - AutoMod
+
+- [image-filter](commands/image-filter.html)
 
 ### Guild - Information
 
@@ -62,6 +73,7 @@ Yuigahamaのコマンド一覧です。クリックすると詳しい説明が�
 - [guildinfo](commands/guildinfo.html)
 - [memberinfo](commands/memberinfo.html)
 - [roleinfo](commands/roleinfo.md)
+- [emoji-info](commands/emoji-info.html)
 
 ### Guild - Manager
 

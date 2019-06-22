@@ -17,7 +17,19 @@ footer: MIT Licensed | Copyright © 2019 ProjectYuigahama
   </div>
   <div class="feature">
     <h2>24時間ホスティング</h2>
-    <p>基本24時間起動しています。どの時間帯使用可能です。</p>
+    <p>基本24時間起動しています。どの時間帯でも使用可能です。</p>
+  </div>
+  <div class="feature">
+    <h2>強力な画像フィルター</h2>
+    <p>承認されたサーバーのみが、使用できる強力な画像フィルターを搭載　サーバーからNSFW画像を排除します。</p>
+  </div>
+  <div class="feature">
+    <h2>ゲーマー向けの機能</h2>
+    <p>現在FortniteやETS2(TruckersMP)、Minecraftなどで遊んでいるユーザー向けに便利な機能を搭載しています。</p>
+  </div>
+  <div class="feature">
+    <h2>開発者向けの機能</h2>
+    <p>Discord.jsを使ったボットを開発しているユーザーやPocketMine-MPの開発者向けに便利な機能を搭載しています。</p>
   </div>
 </div>
 

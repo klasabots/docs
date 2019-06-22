@@ -37,6 +37,7 @@ module.exports = {
     repo: 'project-yuigahama/docs',
     editLinks: true,
     sidebar: 'auto',
+    logo: '/icon.png',
     locales: {
       '/': {
         label: '日本語',
