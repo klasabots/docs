@@ -1,5 +1,5 @@
 ---
-heroImage: /wallpaper.webp
+heroImage: /background.png
 home: true
 actionText: See how to use →
 actionLink: /en/guide/

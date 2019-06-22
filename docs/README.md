@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /wallpaper.webp
+heroImage: /background.png
 actionText: 使い方を見る →
 actionLink: /guide/
 footer: MIT Licensed | Copyright © 2019 ProjectYuigahama
