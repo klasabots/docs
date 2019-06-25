@@ -4,7 +4,6 @@
 
 - [YuigahamaBot基本ガイド](getting-started/guide.html)
 
-
 ## コンフィグ関係
 
 ### Mod
