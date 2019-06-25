@@ -4,6 +4,13 @@
 
 - [YuigahamaBot基本ガイド](getting-started/guide.html)
 
+
+## コンフィグ関係
+
+### Mod
+
+- [AutoRole](config/auto-role.html)
+
 ## コマンド一覧
 
 Yuigahamaのコマンド一覧です。クリックすると詳しい説明が確認できます。
