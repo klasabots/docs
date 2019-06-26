@@ -6,6 +6,8 @@
 
 ## コンフィグ関係
 
+便利な機能を設定できます。
+
 ### Mod
 
 - [AutoRole](config/auto-role.html)
