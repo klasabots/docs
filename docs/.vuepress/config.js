@@ -63,7 +63,7 @@ module.exports = {
       serviceWorker: true,
       updatePopup: {
         '/': {
-          message: '新しいコンテンツがあります。',
+          message: 'サイトのコンテンツが更新されました。更新しますか？',
           buttonText: '更新する'
         },
         '/en': {
