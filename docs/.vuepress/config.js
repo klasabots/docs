@@ -57,7 +57,7 @@ module.exports = {
   },
   plugins: [
     ['sitemap', {
-      hostname: 'https://yuigahama.js.org'
+      hostname: 'http://yuigahama.js.org'
     }],
     ['@vuepress/pwa', {
       serviceWorker: true,
