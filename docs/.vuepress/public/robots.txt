@@ -1,7 +1,4 @@
-User-agent: msnbot
-Crawl-delay: 10
-
-User-agent: bingbot
-Crawl-delay: 30
+User-agent: *
+Allow: /
 
 Sitemap: https://yuigahama.js.org/sitemap.xml
