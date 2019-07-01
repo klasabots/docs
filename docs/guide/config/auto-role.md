@@ -1,4 +1,4 @@
-# Auto Role 機能
+# Auto Role
 
 YuigahamaにはAuto Role機能が備わっています。
 
