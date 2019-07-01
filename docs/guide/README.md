@@ -11,6 +11,7 @@
 ### General
 
 - [disabledCommands](config/disabledCommands.html)
+- [disableNaturalPrefix](config/disableNaturalPrefix.html)
 
 ### Channels
 
