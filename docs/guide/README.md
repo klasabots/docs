@@ -8,6 +8,10 @@
 
 便利な機能を設定できます。
 
+### General
+
+- [disabledCommands](config/disabledCommands.html)
+
 ### Channels
 
 - [EasyPin](config/easy-pin.html)
