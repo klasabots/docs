@@ -8,6 +8,10 @@
 
 便利な機能を設定できます。
 
+### Channels
+
+- [EasyPin](config/easy-pin.html)
+
 ### Mod
 
 - [AutoRole](config/auto-role.html)
