@@ -930,10 +930,10 @@
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.0.2.tgz#31f82f7ec48b55f06890081e0edf7b6519be0dca"
-  integrity sha512-DtJ29qdVEkIUjGChH/zzoNssZeFANWX79xuZaEzxtPJy8daeqGG8znehl7DPkwzBhFjz0bSoJ7I4x2a45uDIpg==
+"@vuepress/plugin-medium-zoom@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.0.3.tgz#d87975b5ba9ee4effa1c8fb223781726dfc683f2"
+  integrity sha512-IRf77BjyYVQe5Bi4apkeO/BJnrndO6qMFarT2MsjqBWVAG+LPq99qOEEkak4gJlFPQo3coM9O6DNR1JZXxLjbg==
   dependencies:
     medium-zoom "^1.0.4"
 
@@ -964,21 +964,6 @@
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.0.3.tgz#f8cd98380cc00db067fb243e4fd298c6b8b7179a"
   integrity sha512-CD4G6BrKtS6JS9DzPMbwwovanaKMhj/KN6Bv7P5oY5inWTl3lE9KOjzr1YUkoA6wL6f69EfdB5B7cdO2d47n/w==
-
-"@vuepress/shared-utils@^1.0.2", "@vuepress/shared-utils@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.0.3.tgz#224d2fc10fcf26d871eae8dd93b810616731123f"
-  integrity sha512-E9kh+nk+E0X6GTONXK1OWeY7Yyl/bUkWltmdh89f7hcSn2MxuBmlph4JdtZKrTK2m+9EqzpVR+CYanGjTA/ZQA==
-  dependencies:
-    chalk "^2.3.2"
-    diacritics "^1.3.0"
-    escape-html "^1.0.3"
-    fs-extra "^7.0.1"
-    globby "^9.2.0"
-    gray-matter "^4.0.1"
-    hash-sum "^1.0.2"
-    semver "^6.0.0"
-    upath "^1.1.0"
 
 "@vuepress/shared-utils@^1.0.3":
   version "1.0.3"
